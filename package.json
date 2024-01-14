@@ -1,7 +1,7 @@
 {
 	"name": "fmentor-stats-preview-jasmine",
 	"version": "1.0.0",
-	"description": "stats preview card component using jasmine testing",
+	"description": "stats preview card component using jasmine",
 	"main": "index.js",
 	"type": "module",
 	"scripts": {

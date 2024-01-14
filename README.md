@@ -19,7 +19,7 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- Jasmine Testing
+- Jasmine
 - Mobile-first workflow
 
 ## Author

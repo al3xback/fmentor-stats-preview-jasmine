@@ -20,6 +20,8 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - Jasmine
+- Node-fetch
+- Jsdom
 - Mobile-first workflow
 
 ## Author
